@@ -2,13 +2,13 @@
 This was a HackerRank/codemotion challenge exercise.
 
 
-# The program initially requests the user for the size of the array. 
-# 
-# The second input requests the user to input a sequence of digits to populate the array. 
+ The program initially requests the user for the size of the array. 
+ 
+ The second input requests the user to input a sequence of digits to populate the array. 
 
-# The program will output a single number. 
+ The program will output a single number. 
 
-### EXPLENATION ### 
+### EXPLANATION ### 
 
 Suppose that the array the user provided is something like the following. 
 
@@ -23,7 +23,7 @@ We need to find the minimum number for which will make this array have only posi
 
 in this case the solution would be 3. 
 
-EXPLENATION 
+EXPLANATION 
 
 If we add 3 to the array than every value will be positive. Meaning at least 1 
 
